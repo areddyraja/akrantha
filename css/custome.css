@@ -1,3 +1,15 @@
 .navbar-info{
 	background-color: white;
 }
+a.navbar-brand img{
+	height:40px;
+	margin-top:-14px;
+}
+footer p{
+	margin: 0px;
+}
+.navbar{
+    -webkit-box-shadow: 0 7px 7px -7px #999;
+    -moz-box-shadow: 0 7px 7px -7px #999;
+    box-shadow: 0 7px 7px -7px #999;
+    }
